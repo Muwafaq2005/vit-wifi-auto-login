@@ -13,7 +13,7 @@ Automates login for captive portal WiFi networks (like Pronto Networks used in m
 ### 1. Clone repo
 
 ```
-git clone https://github.com/YOUR_USERNAME/wifi-auto-login.git
+git clone https://github.com/Muwafaq2005/wifi-auto-login.git
 cd wifi-auto-login
 ```
 
