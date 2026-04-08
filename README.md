@@ -35,7 +35,7 @@ chmod +x login.sh
 ### 4. Auto-run on WiFi connect (Linux)
 
 ```
-sudo nano /etc/NetworkManager/dispatcher.d/wifi-login
+sudo nano /etc/NetworkManager/dispatcher.d/lvit-login
 ```
 
 Paste:
