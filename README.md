@@ -49,6 +49,6 @@ fi
 ```
 
 ```
-sudo chmod +x /etc/NetworkManager/dispatcher.d/wifi-login
+sudo chmod +x /etc/NetworkManager/dispatcher.d/lvit-login
 ```
 
